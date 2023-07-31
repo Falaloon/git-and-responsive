@@ -27,6 +27,7 @@ body {
 /* Hero Section Styles */
 .hero {
   width: 100%;
+  text-align: center;
 }
 
 .hero img {
@@ -70,7 +71,7 @@ body {
   width: 100%;
   border-radius: 5px;
 }
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 762px) {
   .main {
     flex-direction: column;
   }
